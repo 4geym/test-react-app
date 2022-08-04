@@ -1,6 +1,6 @@
 # First big project on React for education
 
-## The project contains such things as:
+#### The project contains such things as:
 ```
 controlled input;
 sorting;
