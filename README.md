@@ -1,5 +1,5 @@
-<div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="100px" height="100px" alt="react_logo">
+<div style="display: flex;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="150px" height="100px" alt="react_logo">
     <p>First big project on React for education</p>
 </div>
 
